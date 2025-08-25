@@ -4,7 +4,7 @@
 ![Customer Analytics](https://img.shields.io/badge/Customer_Analytics-49A078?style=for-the-badge)
 ![Marketing Analytics](https://img.shields.io/badge/Marketing_Analytics-7754AC?style=for-the-badge)
 
-*An analysis of customer lifetime value using SQL to create weekly user cohorts and Excel to visualize retention, cumulative revenue growth, and forecasted profitability over time.*
+*A data-driven customer lifetime value analysis that segments users into weekly cohorts using SQL and builds predictive models in Excel to forecast profitability timelines and guide strategic marketing investments.*
 
 
 ## 🎯 Business Problem & Objectives
